@@ -1,2 +1,2 @@
 # vit-fine-tune
-Leveraging Transfer Learning in Vision Transformers for Efficient Potato Disease Detection
+Leveraging Transfer Learning in Vision Transformers for Efficient Apple leaf Disease Detection
